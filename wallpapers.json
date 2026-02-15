@@ -1,42 +1,62 @@
 [
   {
     "name": "Wall_1",
-    "url": "https://raw.githubusercontent.com/rkox11/my-dockwallpaper-api/refs/heads/main/Wallpaper/Wall_1.jpeg"
+    "author": "rkox11",
+    "url": "https://raw.githubusercontent.com/rkox11/my-dockwallpaper-api/refs/heads/main/Wallpaper/Wall_1.jpeg",
+    "collections": "Cool_Walls"
   },
   {
     "name": "Wall_2",
-    "https://raw.githubusercontent.com/rkox11/my-dockwallpaper-api/refs/heads/main/Wallpaper/Wall_2.jpeg"
+    "author": "rkox11",
+    "url": "https://raw.githubusercontent.com/rkox11/my-dockwallpaper-api/refs/heads/main/Wallpaper/Wall_2.jpeg",
+    "collections": "Cool_Walls"
   },
   {
     "name": "Wall_3",
-    "url": "https://raw.githubusercontent.com/rkox11/my-dockwallpaper-api/refs/heads/main/Wallpaper/Wall_3.jpeg"
+    "author": "rkox11",
+    "url": "https://raw.githubusercontent.com/rkox11/my-dockwallpaper-api/refs/heads/main/Wallpaper/Wall_3.jpeg",
+    "collections": "Cool_Walls"
   },
   {
     "name": "Wall_4",
-    "url": "https://raw.githubusercontent.com/rkox11/my-dockwallpaper-api/refs/heads/main/Wallpaper/Wall_4.jpeg"
+    "author": "rkox11",
+    "url": "https://raw.githubusercontent.com/rkox11/my-dockwallpaper-api/refs/heads/main/Wallpaper/Wall_4.jpeg",
+    "collections": "Cool_Walls"
   },
   {
     "name": "Wall_5",
-    "url": "https://raw.githubusercontent.com/rkox11/my-dockwallpaper-api/refs/heads/main/Wallpaper/Wall_5.jpeg"
+    "author": "rkox11",
+    "url": "https://raw.githubusercontent.com/rkox11/my-dockwallpaper-api/refs/heads/main/Wallpaper/Wall_5.jpeg",
+    "collections": "Cool_Walls"
   },
   {
     "name": "Wall_Blur_1",
-    "url": "https://raw.githubusercontent.com/rkox11/my-dockwallpaper-api/refs/heads/main/Wallpaper/Wall_Blur_1.jpeg"
+    "author": "rkox11",
+    "url": "https://raw.githubusercontent.com/rkox11/my-dockwallpaper-api/refs/heads/main/Wallpaper/Wall_Blur_1.jpeg",
+    "collections": "Blur_Walls"
   },
   {
     "name": "Wall_Blur_2",
-    "url": "https://raw.githubusercontent.com/rkox11/my-dockwallpaper-api/refs/heads/main/Wallpaper/Wall_Blur_2.png"
-  },{
+    "author": "rkox11",
+    "url": "https://raw.githubusercontent.com/rkox11/my-dockwallpaper-api/refs/heads/main/Wallpaper/Wall_Blur_2.png",
+    "collections": "Blur_Walls"
+  },
+  {
     "name": "Wall_Blur_3",
-    "url": "https://raw.githubusercontent.com/rkox11/my-dockwallpaper-api/refs/heads/main/Wallpaper/Wall_Blur_3.png"
-  },{
+    "author": "rkox11",
+    "url": "https://raw.githubusercontent.com/rkox11/my-dockwallpaper-api/refs/heads/main/Wallpaper/Wall_Blur_3.png",
+    "collections": "Blur_Walls"
+  },
+  {
     "name": "Wall_Blur_4",
-    "url": "https://raw.githubusercontent.com/rkox11/my-dockwallpaper-api/refs/heads/main/Wallpaper/Wall_Blur_4.png"
-  },{
+    "author": "rkox11",
+    "url": "https://raw.githubusercontent.com/rkox11/my-dockwallpaper-api/refs/heads/main/Wallpaper/Wall_Blur_4.png",
+    "collections": "Blur_Walls"
+  },
+  {
     "name": "Wall_Blur_5",
-    "url": "https://raw.githubusercontent.com/rkox11/my-dockwallpaper-api/refs/heads/main/Wallpaper/Wall_Blur_5.png"
-  },{
-    "name": "Wall_",
-    "url": "https://raw.githubusercontent.com"
+    "author": "rkox11",
+    "url": "https://raw.githubusercontent.com/rkox11/my-dockwallpaper-api/refs/heads/main/Wallpaper/Wall_Blur_5.png",
+    "collections": "Blur_Walls"
   }
 ]
