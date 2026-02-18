@@ -434,5 +434,18 @@
     "author": "rkox11",
     "url": "https://raw.githubusercontent.com/rkox11/my-dockwallpaper-api/refs/heads/main/Wallpaper/Wall_18.png",
     "collections": "Cool_DockWalls"
+  },
+  {
+    "name": "Wall_Blur_18",
+    "author": "rkox11",
+    "url": "https://raw.githubusercontent.com/rkox11/my-dockwallpaper-api/refs/heads/main/Wallpaper/Wall_Blur_18.png",
+    "collections": "Blur_DockWalls"
+  },
+  {
+    "name": "NWall_Blur_18",
+    "author": "rkox11",
+    "url": "https://raw.githubusercontent.com/rkox11/my-dockwallpaper-api/refs/heads/main/Wallpaper/NWall_Blur_18.png",
+    "collections": "CoolWalls_NoDock"
   }
 ]
+
