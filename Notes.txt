@@ -1,0 +1,1 @@
+Get-ChildItem -File | Where-Object { $_.Name -notlike "@AppDockWalls_*" } | Rename-Item -NewName { "@AppDockWalls_$($_.Name)" }
