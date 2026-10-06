@@ -1,0 +1,1 @@
+Get-ChildItem -Path "Wallpaper" -File | Where-Object { $_.Name -notlike "@AppDockWalls_*" } | Rename-Item -NewName { "@AppDockWalls_$($_.Name)" } -PassThru | Select-Object -ExpandProperty Name | Tee-Object -FilePath "Wallpaper\@AppDockWalls_Last_Renamed.txt" | Format-Wide -Column 3
